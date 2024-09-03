@@ -75,6 +75,13 @@ But it's otherwise a great (and did I mention _free_?) source of data.
 ''
 ''
 
+# Set the title that appears at the top of the page.
+'''
+# Alternative Branch
+
+
+'''
+
 min_value = gdp_df['Year'].min()
 max_value = gdp_df['Year'].max()
 
